@@ -1,0 +1,12 @@
+.avatarImage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;  
+    height: 150px; 
+    font-size: 50px;
+    border-radius: 50%; 
+    object-fit: cover; 
+    border: 1px solid #000000;
+    background-color: rgb(255, 152, 87);
+}
