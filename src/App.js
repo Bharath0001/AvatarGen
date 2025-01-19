@@ -27,7 +27,7 @@ function App() {
     const g = Math.floor(Math.random()*256); 
     const b = Math.floor(Math.random()*256); 
     const fonts = ["fontRoboto","fontBungee","fontrockSalt","fontRighteous","fontlilitaOne","fontfrederickatheGreat","fontOrbitron"];
-
+ 
     
     const luminance = calculateLuminance(r,g,b);
 
